@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Cebu Jeepney Route 15</name>
+		<description><![CDATA[cebujeepneymap.com...like us on Facebook
+Jeepney 15 from Oppra to Carbon, via; Oprra 
+Capitol Site - A Villalon - Capitol - Osmena - Cebu Doc - Robinsons Cyber Mall - Robinsons Fuente - Ceu Sports Complex - SSS - Unitop - Metro Gaisano - Legasi - Burgos - Magellan's Cross- Manillili, then return same route back from Osmena via Jakosal.]]></description>
+		<NetworkLink>
+			<name>Cebu Jeepney Route 15</name>
+			<Link>
+				<href>http://www.google.com/maps/d/kml?mid=z69hWuyiHN5c.k-moPfPhP1Y4</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>

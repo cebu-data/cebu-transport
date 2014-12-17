@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Cebu Jeepney Route 07B</name>
+		<description><![CDATA[This and all route at cebujeepneymap.com.
+07B from Banawa to Carbon, and return via;
+Banawa to Carbon via; Banawa - R. Duterte - V Rama - B. Rodriguez - Vicente Sotto Memorial Medical Center - Fuente - Robinsons Fuente - and return via red line via St Nino back to Osmena, then from fuente via cebu doc - capital and Velez to Banawa]]></description>
+		<NetworkLink>
+			<name>Cebu Jeepney Route 07B</name>
+			<Link>
+				<href>http://www.google.com/maps/d/kml?mid=z69hWuyiHN5c.k_u_e3DCg8ME</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>
